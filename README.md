@@ -1,5 +1,5 @@
 # suzgwak 👋
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=250&section=header&text=suzgwak&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=150&section=header&text=suzgwak&fontSize=60)
  
 - 🔭 I’m currently working on basics of programmings.
 - 🌱 I’m currently learning git from instructor Kim.
