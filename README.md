@@ -1,4 +1,3 @@
-# suzgwak 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=200&section=header&text=suzgwak&fontSize=60)
  
 - 🔭 I’m currently working on basics of programmings.
