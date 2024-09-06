@@ -1,5 +1,7 @@
 # suzgwak 👋
 
+ 성수동 장원영 곽수지입니다.👋👋👋
+
 - 🔭 I’m currently working on basics of programmings.
 - 🌱 I’m currently learning git from instructor Kim.
 - 👯 I’m looking to collaborate on developing useful financial program.
