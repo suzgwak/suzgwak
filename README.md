@@ -1,5 +1,5 @@
 # suzgwak 👋
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=250&section=header&text=suzgwak&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=250&section=header&text=suzgwak&fontSize=45)
  
  성수동 장원영 곽수지입니다.👋👋👋
 
