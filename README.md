@@ -17,7 +17,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Suzgwak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Final Vocabulary : 
-Explore
+# 🌞Final Vocabulary : 
+🌏 Explore
 
 <img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/portugal.png" alt="portugal"/> <img width="32" height="32" src="https://img.icons8.com/color/48/spain.png" alt="spain"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/cambodia.png" alt="cambodia"/> <img width="32" height="32" src="https://img.icons8.com/color/48/vietnam.png" alt="vietnam"/>  <img width="32" height="32" src="https://img.icons8.com/color/48/germany.png" alt="germany"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/netherlands.png" alt="netherlands"/>  <img width="32" height="32" src="https://img.icons8.com/color/48/czech-republic.png" alt="czech-republic"/>
+
