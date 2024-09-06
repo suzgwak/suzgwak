@@ -8,7 +8,7 @@
 - 🤔 I’m looking for your skills to deal with class obstacles.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: Slack DM
-- 😄 Pronouns: Beginner hoping to be an Amateur
+- 😄 Pronouns: Beginner hoping to be an Amateur!
 - ⚡ Fun fact: I love {} programming!
 
 # 💻Tech Stack
