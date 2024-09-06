@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on basics of programmings.
 - 🌱 I’m currently learning git from instructor Kim.
-- 👯 I’m looking to collaborate on devloping useful financial program.
-- 🤔 I’m looking for your skills to deal with obstacles during class.
+- 👯 I’m looking to collaborate on developing useful financial program.
+- 🤔 I’m looking for your skills to deal with class obstacles.
 - 💬 Ask me about anything related to programming.
-- 📫 How to reach me: Slack
+- 📫 How to reach me: Slack DM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love {} programming.
 <!--
