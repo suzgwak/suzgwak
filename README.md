@@ -6,8 +6,8 @@
 - 🤔 I’m looking for your skills to deal with class obstacles.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: Slack DM
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love {} programming.
+- 😄 Pronouns: Beginner hoping to be an Amateur
+- ⚡ Fun fact: I love {} programming!
 <!--
 **suzgwak/suzgwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
