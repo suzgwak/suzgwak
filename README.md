@@ -1,4 +1,4 @@
-## suzgwak 👋
+# suzgwak 👋
 
 - 🔭 I’m currently working on basics of programmings.
 - 🌱 I’m currently learning git from instructor Kim.
