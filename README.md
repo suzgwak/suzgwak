@@ -1,5 +1,13 @@
 ## suzgwak 👋
 
+- 🔭 I’m currently working on basics of programmings.
+- 🌱 I’m currently learning git from instructor Kim.
+- 👯 I’m looking to collaborate on devloping useful financial program.
+- 🤔 I’m looking for your skills to deal with obstacles during class.
+- 💬 Ask me about anything related to programming.
+- 📫 How to reach me: Slack
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I love {} programming.
 <!--
 **suzgwak/suzgwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
