@@ -1,5 +1,6 @@
 # suzgwak 👋
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=250&section=header&text=suzgwak&fontSize=90)
+ 
  성수동 장원영 곽수지입니다.👋👋👋
 
 - 🔭 I’m currently working on basics of programmings.
@@ -18,3 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Suzgwak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=Suzgwak&theme=radical&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzgwak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=Suzgwak&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Final Interest : 
