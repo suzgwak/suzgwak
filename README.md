@@ -1,4 +1,9 @@
+<div align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&height=200&section=header&text=suzgwak&fontSize=60)
+ 
+</div>
+
  
 - 🔭 I’m currently working on basics of programmings.
 - 🌱 I’m currently learning git from instructor Kim.
@@ -17,26 +22,38 @@
 </br>
 
 <div align="center">
+ <h2>📊GitHub Stats</h2>
  
-<h2>📊GitHub Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=Suzgwak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Suzgwak&theme=radical&hide_border=false)
-# 
-[![](https://visitcount.itsvg.in/api?id=Suzgwak&icon=0&color=0)](https://visitcount.itsvg.in)
-
+ ![](https://github-readme-stats.vercel.app/api?username=Suzgwak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)</br>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Suzgwak&theme=radical&hide_border=false)
 </div>
 
 </br>
 <div align = "center"> 
-<h1> 🌞Final Vocabulary</h1> 
+<h2> 🌞Final Vocabulary</h2> 
 <h3>🌏Explore</h3>
 </div>
 </br>
 
 
 </br>
-<h3>🚀 The places I've traveled to</h3>
+<h3 align="center">🚀 The places I've traveled to</h3>
+<p align="center">
+ 
+ <img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/portugal.png" alt="portugal"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/spain.png" alt="spain"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/cambodia.png" alt="cambodia"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/vietnam.png" alt="vietnam"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/germany.png" alt="germany"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/netherlands.png" alt="netherlands"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/czech-republic.png" alt="czech-republic"/>
+ 
+</p>
 
-<img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/portugal.png" alt="portugal"/> <img width="32" height="32" src="https://img.icons8.com/color/48/spain.png" alt="spain"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/cambodia.png" alt="cambodia"/> <img width="32" height="32" src="https://img.icons8.com/color/48/vietnam.png" alt="vietnam"/>  <img width="32" height="32" src="https://img.icons8.com/color/48/germany.png" alt="germany"/>   <img width="32" height="32" src="https://img.icons8.com/color/48/netherlands.png" alt="netherlands"/>  <img width="32" height="32" src="https://img.icons8.com/color/48/czech-republic.png" alt="czech-republic"/>
+<div align='center'>
+ 
+ [![](https://visitcount.itsvg.in/api?id=Suzgwak&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
