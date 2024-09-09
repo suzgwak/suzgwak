@@ -14,14 +14,14 @@
 - 😄 Pronouns: Beginner hoping to be an Amateur!
 - ⚡ Fun fact: I love {} programming!
 </br>
-<div align = "center">
+<div align =>
 <h2 >💻Tech Stack</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 </div>
 </br>
 
-<div align="center">
+<div align>
  <h2>📊GitHub Stats</h2>
  
  ![](https://github-readme-stats.vercel.app/api?username=Suzgwak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)</br>
@@ -29,16 +29,14 @@
 </div>
 
 </br>
+<h2> 🌞Final Vocabulary</h2>
 <div align = "center"> 
-<h2> 🌞Final Vocabulary</h2> 
-<h3>🌏Explore</h3>
+<h3>🌏 Explore 🌏</h3>
 </div>
-</br>
 
-
-</br>
-<h3 align="center">🚀 The places I've traveled to</h3>
 <p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75EBF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+The+places+I've+traveled+to+%F0%9F%9A%80)](https://git.io/typing-svg)
  
  <img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>
@@ -51,8 +49,10 @@
  <img width="32" height="32" src="https://img.icons8.com/color/48/czech-republic.png" alt="czech-republic"/>
  
 </p>
+</br>
 
-<div align='center'>
+#
+<div align>
  
  [![](https://visitcount.itsvg.in/api?id=Suzgwak&icon=0&color=0)](https://visitcount.itsvg.in)
 
