@@ -37,6 +37,7 @@
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75EBF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+The+places+I've+traveled+to+%F0%9F%9A%80)](https://git.io/typing-svg)
+</p>
  
  <img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>
@@ -48,7 +49,7 @@
  <img width="32" height="32" src="https://img.icons8.com/color/48/netherlands.png" alt="netherlands"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/czech-republic.png" alt="czech-republic"/>
  
-</p>
+
 </br>
 
 #
