@@ -32,15 +32,15 @@
 <h2> 🌞Final Vocabulary</h2>
 <div align = "center"> 
 <h3>🌏 Explore 🌏</h3>
+</br>
 </div>
 
-<p align="center">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75EBF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+The+places+I've+traveled+to+%F0%9F%9A%80)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F75EBF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+The+places+I've+been+to+%F0%9F%9A%80)](https://git.io/typing-svg)
+
  
- <img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/>
- <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>
+ <img width="32" height="32" src="https://img.icons8.com/color/48/japan.png" alt="japan"/> <img width="32" height="32" src="https://img.icons8.com/color/48/morocco.png" alt="morocco"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/portugal.png" alt="portugal"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/spain.png" alt="spain"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/cambodia.png" alt="cambodia"/>
@@ -49,7 +49,7 @@
  <img width="32" height="32" src="https://img.icons8.com/color/48/netherlands.png" alt="netherlands"/>
  <img width="32" height="32" src="https://img.icons8.com/color/48/czech-republic.png" alt="czech-republic"/>
  
-
+</div>
 </br>
 
 #
